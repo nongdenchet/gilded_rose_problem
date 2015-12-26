@@ -8,7 +8,7 @@ code base.  To work the Kata, clone this git repository and checkout
 the tag 'start-here'. Read the description below for the "rules"
 involving this kata.
 
-## Changes from the original
+### Changes from the original
 
 This Ruby version follows the original code very closely, but has the
 following changes:
